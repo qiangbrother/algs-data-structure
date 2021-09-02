@@ -14,7 +14,6 @@ public class EX_1_1_13 {
 	/**
 	 * 1.1.13
 	 *打印一个M行N列的二维数组转置（交换行和列）
-	 * @param twoArray
 	 */
 	public static void switchTwoArray(int[][] twoArray) {
 		System.out.println(twoArray[0].length);
